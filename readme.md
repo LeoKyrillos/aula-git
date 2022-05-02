@@ -1,3 +1,3 @@
 Aula de Git
 
-Feito algumas alterações
+Feito algumas alteracoes
